@@ -5,6 +5,12 @@
 
 }
 
+#myPlaces
+{
+    padding: 20x;
+    background-color: white;
+}
+
 body
 {
     margin: 100px;
@@ -17,5 +23,6 @@ main
 
 article.faq
 {
-    background-color: yellow;
+    padding: 20px;
+    background-color: beige;
 }
